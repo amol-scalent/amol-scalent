@@ -13,13 +13,11 @@
 
 <p float="left">
    <img src="https://github.com/amolasg/amolasg/blob/master/assets/go.png"  height="85" />
-  <img src="https://github.com/amolasg/amolasg/blob/master/assets/ubuntu.png"  height="85" />
+  <img src="https://github.com/amolasg/amolasg/blob/master/assets/ubu.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/vs-code.png"  height="85" />
     <img src="https://github.com/amolasg/amolasg/blob/master/assets/mysql.png"  height="85" />
   <img src="https://github.com/amolasg/amolasg/blob/master/assets/docker.png"  height="85" />
-  <img src="https://github.com/amolasg/amolasg/blob/master/assets/chrome.png"  height="85" />
-  <img src="https://github.com/amolasg/amolasg/blob/master/assets/terminal-512.png"  height="85" />
- 
+   
 </p>
 
 
